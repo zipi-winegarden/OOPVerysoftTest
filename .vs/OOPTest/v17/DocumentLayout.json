@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\ooptest\\ooptest\\vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\vehicles\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\ooptest\\ooptest\\vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\vehicles\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\ooptest\\ooptest\\customers\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\customers\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\ooptest\\ooptest\\customers\\corporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\customers\\corporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCE26D-0F63-46E9-99D1-5FC5B9283472}|OOPTest.Tests\\OOPTest.Tests.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\ooptest\\ooptest.tests\\vehiclerentaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFCE26D-0F63-46E9-99D1-5FC5B9283472}|OOPTest.Tests\\OOPTest.Tests.csproj|solutionrelative:ooptest.tests\\vehiclerentaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\ooptest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\ooptest\\vehiclerental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\vehiclerental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\ooptest\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\ooptest\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2B5F46-2046-4BC2-BB4B-559572D583DA}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleRentalTests.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest.Tests\\VehicleRentalTests.cs",
+              "RelativeDocumentMoniker": "OOPTest.Tests\\VehicleRentalTests.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest.Tests\\VehicleRentalTests.cs",
+              "RelativeToolTip": "OOPTest.Tests\\VehicleRentalTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:53:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\App.config",
+              "RelativeDocumentMoniker": "OOPTest\\App.config",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\App.config",
+              "RelativeToolTip": "OOPTest\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-29T21:46:13.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CorporateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Customers\\CorporateCustomer.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Customers\\CorporateCustomer.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Customers\\CorporateCustomer.cs",
+              "RelativeToolTip": "OOPTest\\Customers\\CorporateCustomer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:53:08.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegularCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Customers\\RegularCustomer.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Customers\\RegularCustomer.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Customers\\RegularCustomer.cs",
+              "RelativeToolTip": "OOPTest\\Customers\\RegularCustomer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:04:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\ICustomer.cs",
+              "RelativeDocumentMoniker": "OOPTest\\ICustomer.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\ICustomer.cs",
+              "RelativeToolTip": "OOPTest\\ICustomer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:57:51.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Vehicles\\Truck.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Vehicles\\Truck.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Vehicles\\Truck.cs",
+              "RelativeToolTip": "OOPTest\\Vehicles\\Truck.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:19:53.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Vehicles\\Car.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Vehicles\\Car.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Vehicles\\Car.cs",
+              "RelativeToolTip": "OOPTest\\Vehicles\\Car.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:50:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Vehicle.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\Vehicle.cs",
+              "RelativeToolTip": "OOPTest\\Vehicle.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwvzcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:47:47.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleRental.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\VehicleRental.cs",
+              "RelativeDocumentMoniker": "OOPTest\\VehicleRental.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\OOPTest\\OOPTest\\VehicleRental.cs",
+              "RelativeToolTip": "OOPTest\\VehicleRental.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:46:40.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
