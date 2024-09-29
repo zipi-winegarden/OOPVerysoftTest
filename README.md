@@ -7,9 +7,6 @@ This project is designed to manage vehicle rentals, including both regular and c
 - [Description](#description)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [Contact](#contact)
 
 ## Description
 
